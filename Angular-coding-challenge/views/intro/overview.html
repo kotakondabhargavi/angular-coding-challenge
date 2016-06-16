@@ -1,0 +1,29 @@
+
+
+<div class="container">
+  <h2>Table</h2>
+                      
+   <div class="table-responsive">
+  <table  ng-table="vm.tableParams"  class="table table-bordered">
+   
+       <tr ng-repeat="user in $data">
+                    <td title="'Id'"  sortable="'id'">
+                        {{user.id}}
+                    </td>
+					 <td title="'UserId'"  sortable="'userId'">
+                        {{user.userId}}
+                    </td>
+                   
+			<td title="'Title'"  sortable="'title'">
+						{{user.title}}
+					    </td>
+			<td title="'Body'"  sortable="'body'">
+						{{user.body}}
+					    </td>
+                </tr>
+
+  </table>
+  </div>
+</div>
+
+
