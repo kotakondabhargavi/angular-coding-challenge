@@ -1,7 +1,5 @@
 # angular-coding-challenge
 
-# angular-coding-challenge
-
 Description:This project is developed for code-challenge
 
 user story:
