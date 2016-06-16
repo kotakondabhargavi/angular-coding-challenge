@@ -11,10 +11,10 @@ When the user clicks on the header of a table column, it should sort the table.
 
 Technologie stack:
 
-html
-bootstrap
-angular js--(Java MVC Framework)
-Jasmine--(Unit testing)
+html,
+bootstrap,
+angular js--(Java MVC Framework),
+Jasmine--(Unit testing),
 
 Explnation about userstorie:
 
